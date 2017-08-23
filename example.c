@@ -1,8 +1,15 @@
 #include <stdio.h>
 
+void
+printer() 
+{
+  printf("Hello, World!\n");
+}
+
+
 int
 main() 
 {
-  printf("Hello, world!\n");
+  printer();
   return 0;
 }
