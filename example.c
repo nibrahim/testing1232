@@ -3,7 +3,7 @@
 void
 printer() 
 {
-  printf("Hello, World!\n");
+  printf("Goodbye cruel world!\n");
 }
 
 
